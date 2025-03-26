@@ -1,2 +1,2 @@
-# trabalho-front
-trabalho para aula de front, criar uma pagina de um artista
+Eduardo Felipe dos Santos Silva
+00117557
